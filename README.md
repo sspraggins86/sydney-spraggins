@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/sspraggins-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/sspraggins/)](https://www.linkedin.com/in/www.linkedin.com/in/sspraggins/) [![Github Badge](https://img.shields.io/badge/-sspraggins86-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sspraggins86/)](https://www.github.com/sspraggins86/) <p align='left'>Long ago.. it began with a degree in Psychology. Followed by some twists and turns and now here I am becoming a Business Analyst. Using data-driven logic along with emotional intelligence and creativity for visualizations to bring forth the best analysis easy for others to understand. Some tools that I use to contribute to strong and clear solutions are Tableau, Power BI, PostgreSQL, and Google Sheets. With this, I am happy to participate in any outsourced projects.
 
 Some fun facts about me:
+
 -I enjoy continual learning.
 -I love engaging in outdoor activities.
 -Holistic healing and natural remedies are a big interest to me.
