@@ -4,11 +4,11 @@
 
 Some fun facts about me:
 
--I enjoy continual learning.
--I love engaging in outdoor activities.
--Holistic healing and natural remedies are a big interest to me.
--I am excited to learn more about cooking Asian cuisine and desserts (specifically Japanese).
--My goals for 2024: develop my skills as a BI Analyst and land a job with a company of interest!
+- I enjoy continual learning.
+- I love engaging in outdoor activities.
+- Holistic healing and natural remedies are a big interest to me.
+- I am excited to learn more about cooking Asian cuisine and desserts (specifically Japanese).
+- My goals for 2024: develop my skills as a BI Analyst and land a job with a company of interest!
 
 Please feel free to contact me! :] 
 ## Some of my Github Stats
